@@ -16,7 +16,7 @@ C. "Adventure VR Main Project" is the latest version of the project I have. It u
 Note: the "Old Versions" folder contains another version of the game. I can't remember whats different from it and the main project but I feel like I shoud include it anyway just in case.
 
 ///////////////
-///  TO DO  ///
+     TO DO     
 ///////////////
 
 1. Make the bat work according to the priority list from "Essential Information/notes1.jpg". It works like the dragons except it can pick up and drop objects, never stops, and is constantly moving.
