@@ -1,0 +1,19 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7570]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Other\Alienware PC Files\Unity Projects\Games\Adventure VR - Copy\Builds\Test\AdventureVR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.307 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3840x2160 60Hz; virtual: 2560x1440 at 0,0
