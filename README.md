@@ -14,3 +14,11 @@ The emulator and original game is included.
 C. "Adventure VR Main Project" is the latest version of the project I have. It uses Unity 4.3.2f1 I think. If the project doesn't work properly in Unity 5, Download Unity 4.3.2 here https://unity3d.com/get-unity/download/archive
 
 Note: the "Old Versions" folder contains another version of the game. I can't remember whats different from it and the main project but I feel like I shoud include it anyway just in case.
+
+///////////////
+///  TO DO  ///
+///////////////
+
+1. Make the bat work according to the priority list from "Essential Information/notes1.jpg". It works like the dragons except it can pick up and drop objects, never stops, and is constantly moving.
+
+2. Add the famous easter egg https://www.youtube.com/watch?v=Pw02kibMs3E&feature=youtu.be&t=1m51s
