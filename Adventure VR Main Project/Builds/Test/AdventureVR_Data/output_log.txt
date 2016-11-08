@@ -1,0 +1,83 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.4411]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.184 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Going to Window
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.544630 ms
+Going to Window
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 1.301706 ms (FindLiveObjects: 0.028394 ms CreateObjectMapping: 0.016763 ms MarkObjects: 0.131368 ms  DeleteObjects: 0.435840 ms)
+
+Platform assembly: C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.311970 ms
+Going to Window
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1682.
+Total: 0.876129 ms (FindLiveObjects: 0.070131 ms CreateObjectMapping: 0.019842 ms MarkObjects: 0.188841 ms  DeleteObjects: 0.144368 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at greenCreature.ScanRoom () [0x00000] in <filename unknown>:0 
+  at greenCreature.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at yellowCreature.ScanRoom () [0x00000] in <filename unknown>:0 
+  at yellowCreature.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at greenCreature.ScanRoom () [0x00000] in <filename unknown>:0 
+  at greenCreature.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at yellowCreature.ScanRoom () [0x00000] in <filename unknown>:0 
+  at yellowCreature.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+You Win!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\New User\Desktop\unity projects\Games\Adventure VR\Builds\Test\AdventureVR_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.495964 ms
+Going to Window
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 1.220970 ms (FindLiveObjects: 0.027710 ms CreateObjectMapping: 0.020868 ms MarkObjects: 0.188499 ms  DeleteObjects: 0.324999 ms)
+
